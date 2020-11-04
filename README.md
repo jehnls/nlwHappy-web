@@ -87,10 +87,6 @@ git clone https://github.com/jehnls/nlwHappy-web.git
 npm install
 ```
 
-```
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
