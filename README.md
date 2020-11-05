@@ -56,7 +56,7 @@
 The Happy is project that conecting children with people avaible give love them.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+<!--This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
 * [REACT JS](https://pt-br.reactjs.org/)
 * [NODE.JS](https://nodejs.org/en/)
 
